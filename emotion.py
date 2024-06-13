@@ -9,7 +9,6 @@ def main():
     payload = json.dumps({
         "text":"我今天太伤心了，因为我摔了一跤，呜呜呜 " #input text
     })
-    print(payload)
     headers = {
         'Content-Type': 'application/json',
         'Accept': 'application/json'
