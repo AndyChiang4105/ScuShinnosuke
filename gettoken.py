@@ -4,7 +4,7 @@ import json
 
 def main():
         
-    url = "https://aip.baidubce.com/oauth/2.0/token?grant_type=client_credentials&client_id=shnTSjhAbQV0IfyCBYvqCh8U&client_secret=lcbum7qjnBbmlFTR4cGoQ1sSCMaPC15D"
+    url = "https://aip.baidubce.com/oauth/2.0/token?grant_type=client_credentials&client_id=&client_secret="
     
     payload = ""
     headers = {
